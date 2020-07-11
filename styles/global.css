@@ -1,0 +1,26 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segone UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, helvetica Neue, sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+* {
+  boxy-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
